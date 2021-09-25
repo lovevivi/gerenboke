@@ -1,6 +1,6 @@
 <?php 
 //test.php 文件
-namespace test
+namespace test;
 class Test{
 	function test(){
 		echo "this is my first package";
